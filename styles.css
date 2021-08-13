@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Numans&display=swap');
+body{
+    background-color: rgb(64, 142, 211);
+}
+
+#container{
+    width: 80vw;
+    height: 90vh;
+    background-color: white;
+    margin: 5vh auto;
+    text-align: center;
+    
+}
+#container h1{
+    color: rgb(156, 10, 10);
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 1vh;
+}
+
+.organized{
+    width: 5vw;
+    height: 4vh;
+    background-color: rgb(24, 71, 223);
+    color: white;
+    font-size: 1.5em;
+    font-weight: 700;
+    float: right;
+    padding: 5vh 5vw;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.display{
+    font-family: 'Numans', sans-serif;
+    width: 94.2%;
+    float: right;
+    height: 8vh;
+    border: 2px solid rgb(255, 255, 255);
+    font-size: 1.7em;
+    font-weight: 700;
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+.result{
+    margin-top: 1vh;
+    width: 50vh;
+    height: 8vh;
+    float: right;
+    background-color: cadetblue;
+    color: white;
+    font-family:'Numans', sans-serif;
+    margin-bottom: 0px;
+}
+#igual{
+    width: 35.3vw;
+}
